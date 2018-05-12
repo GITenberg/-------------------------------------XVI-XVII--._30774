@@ -1,0 +1,49 @@
+_repo: '-------------------------------------XVI-XVII--._30774'
+_version: 0.1.0
+alternative_title: Moscovia v predstavlenii inostrantsev XVI-XVII v.
+contributor:
+  illustrator:
+    agent_name: Arnshtam, Aleksandr Martinovich
+    alias: Арнштам, Александр Мартынович
+    birthdate: 1881
+    deathdate: 1969
+    gutenberg_agent_id: '34822'
+    url: http://www.gutenberg.org/2009/agents/34822
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Apostol, P. N. (Pavel Natanovich)
+    aliases:
+    - Апостол, Павел Николаевич
+    - Apostol, Pavel Natanovich
+    - Апостол, Павел Натанович
+    - Apostol, Pavel Nikolayevich
+    birthdate: 1872
+    deathdate: 1942
+    gutenberg_agent_id: '34820'
+    url: http://www.gutenberg.org/2009/agents/34820
+  editor:
+    agent_name: Lukomskii, G. K. (Georgii Kreskent'evich)
+    aliases:
+    - Lukomsky, Georgy Kresentyevich
+    - Lukomskii, Georgii Kreskent'evich
+    birthdate: 1884
+    deathdate: 1952
+    gutenberg_agent_id: '34821'
+    url: http://www.gutenberg.org/2009/agents/34821
+description: ''
+gutenberg_issued: '2009-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30774'
+language: ru
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Russia -- Description and travel'
+title: Московия в представлении иностранцев XVI-XVII в.
+url: http://www.gutenberg.org/ebooks/30774
